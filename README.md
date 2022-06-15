@@ -1,2 +1,2 @@
-# graph-docs
-Documentation repository for Graph, PSR's graphing tool.
+# PSR docs template
+Template documentation repository for PSR
